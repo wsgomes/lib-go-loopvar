@@ -1,3 +1,3 @@
 module github.com/wsgomes/lib-go-loopvar
 
-go 1.18
+go 1.21
